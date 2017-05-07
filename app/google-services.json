@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "778467419114",
+    "firebase_url": "https://sound-psyche-160409.firebaseio.com",
+    "project_id": "sound-psyche-160409",
+    "storage_bucket": "sound-psyche-160409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778467419114:android:19f23296856fba7f",
+        "android_client_info": {
+          "package_name": "com.jorda.jokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778467419114-2o1rhbam54kho6285cn154eta2jbfa46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9V2J0k7B_FJZSxwPz0CxnyFyb5IVCQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

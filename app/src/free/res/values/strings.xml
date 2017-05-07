@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokes-Free Version</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="funniest_jokes">Funniest jokes of all times</string>
+    <string name="tell_me_joke">Tell me a joke</string>
+    <string name="loading_Joke">Loading Joke...</string>
+    <string name="offline">Unable fetch Jokes, Check network connection</string>
+
+</resources>
